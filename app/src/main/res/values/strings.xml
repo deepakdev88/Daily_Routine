@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Daily Routine</string>
+    <string name="App_headerName">Daily Routine</string>
+    <string name="title_1">Boy sleeping peacefully</string>
+    <string name="text_1">Tap the image to wake him up</string>
+    <string name="title_2">Just woke up, yawning in bed</string>
+    <string name="text_2">	Tap the image to start brushing</string>
+    <string name="title_3">Brushing teeth in the bathroom</string>
+    <string name="text_3">	Tap the image to leave for college</string>
+    <string name="title_4">Walking on the way to college</string>
+    <string name="text_4">	Tap the image to enter classroom</string>
+    <string name="title_5">	Sitting in class, taking notes</string>
+    <string name="text_5">Tap the image to go back home</string>
+    <string name="title_6">Studying at home with focus</string>
+    <string name="text_6">Tap the image to go to bed</string>
+    <string name="title_7">	Sleeping after a long day</string>
+    <string name="text_7">Tap the image to restart the day</string>
+</resources>
