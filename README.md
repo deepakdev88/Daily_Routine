@@ -42,6 +42,11 @@ Want to personalize your routine?
 - Change titles and descriptions in `res/values/strings.xml`.
 - Modify steps in the `RoutinePresentation` composable in `MainActivity.kt`.
 
+- ## 💭 Why I Built This App
+
+Lemonade app felt too basic and boring, so I decided to turn my daily routine into a fun, animated journey.  
+It helped me practice Jetpack Compose in a creative way—and made the learning process a lot more enjoyable 
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
